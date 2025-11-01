@@ -483,8 +483,8 @@ export default function Contact() {
                         <h4 className="font-semibold text-gray-900 mb-1">Headquarters</h4>
                         <p className="text-gray-600">
                           Africa Economic Forum<br />
-                          123 Economic Drive<br />
-                          Johannesburg, South Africa 2000
+                          28, avenue Isiro Kinshasa-Gombe<br />
+                          Belgian Embassy Building
                         </p>
                       </div>
                     </div>
@@ -494,7 +494,7 @@ export default function Contact() {
                       </div>
                       <div>
                         <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
-                        <p className="text-gray-600">+27 11 123 4567</p>
+                        <p className="text-gray-600">+243 896 656 905</p>
                       </div>
                     </div>
                     <div className="flex items-start space-x-4">
@@ -503,7 +503,7 @@ export default function Contact() {
                       </div>
                       <div>
                         <h4 className="font-semibold text-gray-900 mb-1">Email</h4>
-                        <p className="text-gray-600">info@africaeconomicforum.org</p>
+                        <p className="text-gray-600">info@africaef.com</p>
                       </div>
                     </div>
                     <div className="flex items-start space-x-4">
@@ -528,22 +528,22 @@ export default function Contact() {
                     <div className="bg-gray-50 p-4 rounded-lg">
                       <h4 className="font-semibold text-gray-900 mb-2">West Africa Office</h4>
                       <p className="text-gray-600 text-sm">
-                        Lagos, Nigeria<br />
-                        +234 1 234 5678
+                        Soon to be announced<br />
+                        +243 896 656 905
                       </p>
                     </div>
                     <div className="bg-gray-50 p-4 rounded-lg">
                       <h4 className="font-semibold text-gray-900 mb-2">East Africa Office</h4>
                       <p className="text-gray-600 text-sm">
-                        Nairobi, Kenya<br />
-                        +254 20 123 4567
+                        Soon to be announced<br />
+                        +243 896 656 905
                       </p>
                     </div>
                     <div className="bg-gray-50 p-4 rounded-lg">
                       <h4 className="font-semibold text-gray-900 mb-2">North Africa Office</h4>
                       <p className="text-gray-600 text-sm">
-                        Cairo, Egypt<br />
-                        +20 2 1234 5678
+                        Soon to be announced<br />
+                        +243 896 656 905
                       </p>
                     </div>
                   </div>
@@ -558,7 +558,7 @@ export default function Contact() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold text-gray-900 mb-4">Find Us</h2>
-              <p className="text-lg text-gray-600">Visit our headquarters in Johannesburg, South Africa</p>
+              <p className="text-lg text-gray-600">Visit our headquarters in 28, avenue Isiro Kinshasa-Gombe Belgian Embassy Building</p>
             </div>
             <div className="bg-white rounded-lg shadow-lg overflow-hidden">
               <iframe
